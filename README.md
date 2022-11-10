@@ -9,4 +9,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" title="c#" alt="c#" widht="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+  <img src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" title="c++" alt="c++" width="40" height="40"/>&nbsp;
  </div>
