@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basicallygit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Stats Card](https://github-readme-stats.vercel.app/api?username=basicallygit&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basicallygit&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div>
