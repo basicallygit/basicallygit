@@ -4,7 +4,7 @@
 
 [![Stats Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=basicallygit&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://kde.org/fundraisers/yearend2022/thanks_paypal/badge_konqi.png">
+<img src="https://kde.org/fundraisers/yearend2022/thanks_paypal/badge_konqi.png" width="300" height="250">
 
 <div>
   <img src="https://i.imgur.com/uvZnUCV.png" width="150" height="150">
