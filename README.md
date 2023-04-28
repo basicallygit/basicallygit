@@ -7,6 +7,7 @@
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=20/> Linux
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=20/> C
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=20/> C++
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=20/> Python
   - <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width=18/> x86-64 Assembly
 </div>
 
