@@ -5,6 +5,7 @@
 
   - <img src="https://rustacean.net/assets/cuddlyferris.svg" width=20/> Rust
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=20/> Linux
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=20/> Bash
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=20/> C
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=20/> C++
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=20/> Python
