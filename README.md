@@ -1,5 +1,3 @@
-## Software Developer interested in Cryptography & Kernel development
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=basicallygit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages / Tools
