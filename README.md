@@ -3,7 +3,7 @@
 ### Languages / Tools
 <div>
 
-  - <img src="https://rustacean.net/assets/cuddlyferris.svg" width=20/> Rust
+  - <img src="https://raw.githubusercontent.com/aldeka/rustacean.net/5cfd9b592eae1a9a15e87960102bf28205e2ad15/site/assets/cuddlyferris.svg" width=20/> Rust
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=20/> Linux
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=20/> Bash
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=20/> C
