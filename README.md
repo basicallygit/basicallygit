@@ -14,11 +14,15 @@
 
 <img src="https://kde.org/fundraisers/yearend2022/thanks_paypal/badge_konqi.png" width="200" height="165">
 
-## PGP Fingerprint:
-F53B43F3385BC6177CB00211036B1F0881CF3EAB
+## Minisign public key
+```
+untrusted comment: minisign public key AE810872FBFDEC72
+RWRy7P37cgiBrohfG5qjF0XjVOd38aQ5psg2IDNbeW8C4W6dDprWmL+c
+```
 
 <details>
-  <summary>Full Public Key</summary>
+  <summary>Old PGP Public Key</summary>
+F53B43F3385BC6177CB00211036B1F0881CF3EAB
   <pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----<br>
 mDMEaRsfeBYJKwYBBAHaRw8BAQdAbfte5LYqrMQ7g5gcCkizslaU4XnLtZt4vO+H
