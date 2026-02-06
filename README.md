@@ -39,3 +39,5 @@ M2JxQuJsb7FlU/i/W+IfE01/DH/PRrb/CA==
 -----END PGP PUBLIC KEY BLOCK-----
   </pre>
 </details>
+
+[Profile picture by David Revoy (CC-BY 4.0) Pepper&Carrot](https://www.peppercarrot.com/en/viewer/misc__2023-01-13_My-Neighboor-Mastodon_by-David-Revoy.html)
