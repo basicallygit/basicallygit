@@ -4,12 +4,14 @@
 <div>
 
   - <img src="https://raw.githubusercontent.com/aldeka/rustacean.net/5cfd9b592eae1a9a15e87960102bf28205e2ad15/site/assets/cuddlyferris.svg" width=20/> Rust
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=20/> Linux
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=20/> Bash
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=20/> C
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=20/> C++
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width=20/> Haskell
   - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=20/> Python
-  - <img src="https://cdn.hackr.io/uploads/topics_svg/1515163329FBBk5SGRAt.svg" width=18/> x86-64 Assembly
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" width=20/> LLVM / Assembly
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=20/> Linux
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width=20/> Docker
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width=20/> Neovim
 </div>
 
 <img src="https://kde.org/fundraisers/yearend2022/thanks_paypal/badge_konqi.png" width="200" height="165">
